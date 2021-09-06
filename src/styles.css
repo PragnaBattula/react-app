@@ -1,0 +1,25 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  margin: 0;
+  background-color: #5a9fbe;
+  color: white;
+  padding-bottom: 3rem;
+  margin-top: 0;
+}
+
+.device {
+  text-align: center;
+  align-items: center;
+  /* color: black; */
+}
+.footer {
+  text-align: center;
+  background-attachment: fixed;
+  background-color: #307392;
+  color: white;
+  position: absolute;
+  left: 0;
+  right: 0;
+  width: 100%;
+}
